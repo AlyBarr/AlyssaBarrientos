@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlyssaBarrientos
 - 👀 I’m interested in CS and expanding my skillset!
-- 🌱 I’m currently learning Salesforce administrative Skills.
+- 🌱 I’m currently learning more swe Skills.
 - 💞️ I’m looking to collaborate on any projects and working on UX and UI.
 - 📫 Reach me at aly3barr@gmail.com
 
