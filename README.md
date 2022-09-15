@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlyssaBarrientos
+- 👋 Hi, I’m @AlyBarr
 - 👀 I’m interested in CS and expanding my skillset!
 - 🌱 I’m currently learning more swe Skills.
 - 💞️ I’m looking to collaborate on any projects and working on UX and UI.
